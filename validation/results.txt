@@ -1,0 +1,19 @@
+Lua 5.1 syntax: 22 files OK
+Compatibility and strict JSON tests OK
+Module load OK: shrekbox
+Module load OK: pixelui
+Module load OK: computercode.state
+Module load OK: computercode.docs
+Module load OK: computercode.models
+Module load OK: computercode.api
+Module load OK: computercode.tools
+Module load OK: computercode.session
+Module load OK: computercode.agent
+Module load OK: computercode.ui
+Module load OK: computercode.monitor
+API HTTP success and error-response handle OK
+success OK
+resolve-failure OK
+file-failure OK
+pinned OK
+Installer source policy and immutable downloads OK

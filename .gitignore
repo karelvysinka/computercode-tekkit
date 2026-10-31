@@ -1,0 +1,5 @@
+.computercode/
+.aigen/
+.computercode-version
+__pycache__/
+*.pyc
